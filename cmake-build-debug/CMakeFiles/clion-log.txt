@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /Users/maxim-kuzin/Desktop/par/lab2 Select CMakeLists.txt
